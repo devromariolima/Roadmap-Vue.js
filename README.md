@@ -124,3 +124,115 @@
 - Interceptores
 
 - Organização de serviços API
+
+##  📌 Nível Avançado
+
+##  11. Renderização e Otimização
+
+- Virtual DOM
+
+- Key reconciliation
+
+- Functional components
+
+- Render functions
+
+- JSX com Vue
+
+## 12. Testes
+
+- Testes unitários com Jest/Vitest
+
+- Testes de componentes com Vue Test Utils
+
+- Testes de snapshot
+
+- Testes E2E com Cypress
+
+## 13. SSR e SSG
+
+- Nuxt.js introdução
+
+- Server-Side Rendering
+
+- Static Site Generation
+
+- Hydration
+
+- Meta tags e SEO
+
+## 14. Avançado em Vue 3
+
+- Teleport
+
+- Suspense
+
+- Fragments
+
+- Multiple v-models
+
+- Custom renderers
+
+## 15. Padrões e Boas Práticas
+
+- Organização de projetos
+
+- Padrão de injeção de dependência (provide/inject)
+
+- Mixins vs Composables
+
+- Diretivas personalizadas avançadas
+
+- Plugins Vue
+
+##  📌 Ecossistema Vue
+
+##  16. Ferramentas e Bibliotecas
+
+- Vue CLI vs Vite
+
+- Pinia (gerenciamento de estado)
+
+- VueUse (coleção de composables)
+
+- Quasar Framework
+
+- Element Plus, Vuetify, PrimeVue (UI libraries)
+
+## 17. Performance
+
+- Lazy loading de componentes
+
+- Code splitting
+
+- Otimização de reatividade
+
+- Uso de memoização
+
+- Análise de bundle
+
+## 📌 Projeto Prático
+
+## 18. Projeto Final
+
+- Configuração do ambiente
+
+- Estrutura de pastas
+
+- Integração com backend
+
+- Autenticação (JWT, OAuth)
+
+- Deploy (Netlify, Vercel, AWS)
+
+## 📚 Recursos Recomendados
+
+- Documentação oficial do Vue.js
+
+- Vue Mastery (cursos gratuitos e pagos)
+
+- Vue School
+
+- Repositórios de exemplo no GitHub
+
+- Comunidade Vue (Discord, fóruns)
